@@ -1,3 +1,4 @@
+# Project Kasir (finished project)
 1. Clone Repository
 2. Import file database sql yang telah disediakan ke dalam database "kasirrpl"
 3. Unduh JAR dan Plugin:
